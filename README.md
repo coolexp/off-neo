@@ -1,5 +1,7 @@
 # off-neo
 
+cocos2d-x项目上链neo相关代码
+
 ##### client 
 1. res里的js目录属于cocos2d-x项目里的res目录或者resources目录
 2. html文件请部署至服务端，可以以外网地址访问譬如：sg.aicarb.com
